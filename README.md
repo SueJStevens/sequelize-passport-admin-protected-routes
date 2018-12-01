@@ -1,0 +1,1 @@
+# sequelize-passport-admin-protected-routes
